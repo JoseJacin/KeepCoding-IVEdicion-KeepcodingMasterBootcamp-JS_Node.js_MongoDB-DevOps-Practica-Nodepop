@@ -36,7 +36,3 @@ Requisitos de instalación:
 ## Documentación
   * [Nodepop](http://expressjs.com/)
   * [Ruta de imágenes de anuncios/bici](https://github.com/JoseJacin/KeepCoding-IVEdicion-KeepcodingMasterBootcamp-JS_Node.js_MongoDB-PracticaNodepop/blob/master/public/images/Anuncios/bici.jpg)
-
-#### Ejemplos de archivos estáticos
-- Al acceder al enlace principal del API *[Nodepop API](http://nodepop.jacoboenriquez.com/)*, se puede comprobar que nginx devuelve la hoja de estilos del directorio `/public/stylesheets/style.css` con la cabecera personalizada X-Owner
-- Al acceder al enlace *[Ruta de imágenes de anuncios/bici BH](http://nodepop.jacoboenriquez.com/images/anuncios/bici2.jpg)*, se puede comprobar que nginx devuelve la foto del directorio `/public/images/anuncios/bici2.jpg` con la cabecera personalizada X-Owner
