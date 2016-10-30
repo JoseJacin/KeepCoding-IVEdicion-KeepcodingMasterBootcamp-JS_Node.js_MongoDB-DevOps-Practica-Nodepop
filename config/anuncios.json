@@ -1,0 +1,99 @@
+[
+    {
+        "nombre": "Bicicleta",
+        "venta": true,
+        "precio": 230.15,
+        "foto": "bici.jpg",
+        "tags": [
+            "lifestyle",
+            "motor"
+        ]
+    },
+    {
+        "nombre": "iPhone 3GS",
+        "venta": false,
+        "precio": 50.00,
+        "foto": "iphone.png",
+        "tags": [
+            "lifestyle",
+            "mobile"
+        ]
+    },
+    {
+        "nombre": "Camión Iveco",
+        "venta": true,
+        "precio": 6000.00,
+        "foto": "camion_iveco.jpg",
+        "tags": [
+            "motor",
+            "work"
+        ]
+    },
+    {
+        "nombre": "Macbook Air 13",
+        "venta": false,
+        "precio": 1200.00,
+        "foto": "macbook_air.jpg",
+        "tags": [
+            "lifestyle",
+            "work"
+        ]
+    },
+    {
+        "nombre": "Skateboard",
+        "venta": true,
+        "precio": 90.00,
+        "foto": "skateboard.png",
+        "tags": [
+            "lifestyle"
+        ]
+    },
+    {
+        "nombre": "Motocicleta",
+        "venta": false,
+        "precio": 450.00,
+        "foto": "motorcycle.jpg",
+        "tags": [
+            "motor",
+            "lifestyle"
+        ]
+    },
+    {
+        "nombre": "Macbook Pro 15",
+        "venta": true,
+        "precio": 1600.00,
+        "foto": "macbook_pro.jpg",
+        "tags": [
+            "work",
+            "lifestyle"
+        ]
+    },
+    {
+        "nombre": "Longboard",
+        "venta": false,
+        "precio": 140.00,
+        "foto": "longboard.jpg",
+        "tags": [
+            "motor",
+            "lifestyle"
+        ]
+    },
+    {
+        "nombre": "Mesa oficina",
+        "venta": true,
+        "precio": 178.00,
+        "foto": "mesa_oficina.jpg",
+        "tags": [
+            "work"
+        ]
+    },
+    {
+        "nombre": "PS4 Slim 1Tb",
+        "venta": false,
+        "precio": 200.00,
+        "foto": "ps4_slim.jpg",
+        "tags": [
+            "lifestyle"
+        ]
+    }
+]

@@ -1,0 +1,1 @@
+./mongodb/3.2.10/bin/mongod --dbpath ./mongodb/3.2.10/data/db --directoryperdb

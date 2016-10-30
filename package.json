@@ -1,0 +1,31 @@
+{
+  "name": "nodepop",
+  "version": "0.0.0",
+  "description": "Practica Node.js KeepCoding Bootcamp IV",
+  "private": true,
+  "scripts": {
+    "start": "DEBUG=nodepop:* nodemon ./bin/www",
+    "startDB": "./config/startMongoDB.sh",
+    "installDB": "./mongodb/3.2.10/bin/mongo --host=\"localhost:27017\" nodepopdb ./config/install_db.js",
+    "jshint": "./node_modules/.bin/jshint ."
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "email-validator": "^1.0.7",
+    "express": "~4.13.4",
+    "hash.js": "^1.0.3",
+    "i18n-2": "^0.6.3",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.6.4",
+    "morgan": "~1.7.0",
+    "request": "^2.75.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
