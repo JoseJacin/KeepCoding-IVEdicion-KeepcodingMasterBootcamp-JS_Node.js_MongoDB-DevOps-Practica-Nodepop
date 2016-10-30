@@ -34,5 +34,5 @@ Requisitos de instalación:
 - **Lista de anuncios** - Búsqueda de anuncios (paginada, con filtros de búsqueda)
 
 ## Documentación
-  * [Nodepop](http://expressjs.com/)
+  * [Nodepop](https://github.com/JoseJacin/KeepCoding-IVEdicion-KeepcodingMasterBootcamp-JS_Node.js_MongoDB-PracticaNodepop/blob/master/README.md)
   * [Ruta de imágenes de anuncios/bici](https://github.com/JoseJacin/KeepCoding-IVEdicion-KeepcodingMasterBootcamp-JS_Node.js_MongoDB-PracticaNodepop/blob/master/public/images/Anuncios/bici.jpg)
