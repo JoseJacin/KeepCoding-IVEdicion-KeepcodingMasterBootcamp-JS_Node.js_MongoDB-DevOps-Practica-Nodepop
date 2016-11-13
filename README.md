@@ -15,7 +15,7 @@ Requisitos de instalación:
 
 ## Instalación
 ### Descarga del Backend
-	$ git clone https://github.com/JoseJacin/KeepCoding-IVEdicion-KeepcodingMasterBootcamp-JS_Node.js_MongoDB-PracticaNodepop.git
+	$ git clone https://github.com/JoseJacin/KeepCoding-IVEdicion-KeepcodingMasterBootcamp-JS_Node.js_MongoDB-PracticaNodepop.git nodepop
 	$ cd nodepop
 	$ npm install
 
