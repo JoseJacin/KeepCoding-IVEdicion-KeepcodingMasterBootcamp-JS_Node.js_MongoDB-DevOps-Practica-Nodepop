@@ -28,6 +28,9 @@ Requisitos de instalación:
 ### Arrancar el servidor
 	$ npm start
 
+### URL de la aplicación
+	$ josesanchezrodriguez.es
+
 ## Operaciones disponibles
 - **Registro** - Registro de usuario (nombre, email, contraseña)
 - **Autenticación** - Login de usuario (email, contraseña)
