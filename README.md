@@ -31,6 +31,9 @@ Requisitos de instalación:
 ### URL de la aplicación
 	$ josesanchezrodriguez.es
 
+### URL de Imagen estática servida por Nginx
+	$ https://josesanchezrodriguez.es/img/intro-bg.jpg
+
 ## Operaciones disponibles
 - **Registro** - Registro de usuario (nombre, email, contraseña)
 - **Autenticación** - Login de usuario (email, contraseña)
