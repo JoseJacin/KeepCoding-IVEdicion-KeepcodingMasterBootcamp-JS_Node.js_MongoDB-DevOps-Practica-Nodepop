@@ -31,6 +31,10 @@ Requisitos de instalación:
 ### URL de la aplicación
   * [https://josesanchezrodriguez.es](https://josesanchezrodriguez.es)
 
+### IP del servidor
+  * [Protocolo HTTPS - 34.192.136.206](https://34.192.136.206)
+  * [Protocolo HTTP - 34.192.136.206](http://34.192.136.206)
+
 ### URL de Imagen estática servida por Nginx
   * [https://josesanchezrodriguez.es/img/intro-bg.jpg](https://josesanchezrodriguez.es/img/intro-bg.jpg)
 
