@@ -29,7 +29,7 @@ Requisitos de instalación:
 	$ npm start
 
 ### URL de la aplicación
-  * [josesanchezrodriguez.es](josesanchezrodriguez.es)
+  * [https://josesanchezrodriguez.es](https://josesanchezrodriguez.es)
 
 ### URL de Imagen estática servida por Nginx
   * [https://josesanchezrodriguez.es/img/intro-bg.jpg](https://josesanchezrodriguez.es/img/intro-bg.jpg)
