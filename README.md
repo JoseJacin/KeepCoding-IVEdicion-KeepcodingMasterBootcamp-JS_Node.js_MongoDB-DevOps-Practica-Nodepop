@@ -36,7 +36,7 @@ Requisitos de instalación:
   * [Protocolo HTTP - 34.192.136.206](http://34.192.136.206)
 
 ### URL de Imagen estática servida por Nginx
-  * [https://josesanchezrodriguez.es/img/intro-bg.jpg](https://josesanchezrodriguez.es/img/intro-bg.jpg)
+  * [https://josesanchezrodriguez.es/nodepop/public/images/Nodepop.png](https://josesanchezrodriguez.es/nodepop/public/images/Nodepop.png)
 
 ## Operaciones disponibles
 - **Registro** - Registro de usuario (nombre, email, contraseña)
