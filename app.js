@@ -17,6 +17,7 @@ require('./lib/mongoConnection');
 //Se cargan los modelos
 require('./models/Anuncio');
 require('./models/Usuario');
+require ('./models/PushToken.js');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -40,7 +41,8 @@ app.use ('/images/anuncios', express.static (__dirname + '/public/images/anuncio
 //Se cargan las rutas del API
 app.use('/apiv1/anuncios', require('./routes/apiv1/anuncios'));
 app.use('/apiv1/usuarios', require('./routes/apiv1/usuarios'));
-
+app.use('/apiv1/tags', require ('./routes/apiv1/tags');
+app.use('/apiv1/pushToken', require ('./routes/apiv1/pushTokens');
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
