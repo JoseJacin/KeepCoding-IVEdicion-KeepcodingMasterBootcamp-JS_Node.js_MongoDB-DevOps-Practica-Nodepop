@@ -48,5 +48,15 @@ anuncioSchema.statics.list = function (filter, sort, limit, skip, fields, result
     return query.exec(result);
 };
 
+//Método que recupera los Tags
+anuncioSchema.statics.listaTags = function(cb) {
+    //var tags = ['mobile', 'motor', 'lifestyle'];//Lista de tags existentes
+    var tags=configTags.tags;
+
+    for (var x=0; x<tags.length;x++) {
+        return cb(null, tags);
+    }
+};
+
 //Se indica a mongoose que utilice el Schema anuncioSchema con el model Anuncio
 let Anuncio = mongoose.model('Anuncio', anuncioSchema);
