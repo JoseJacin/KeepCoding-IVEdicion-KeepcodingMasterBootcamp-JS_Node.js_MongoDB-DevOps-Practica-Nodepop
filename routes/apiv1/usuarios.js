@@ -159,7 +159,7 @@ router.post('/authenticate', function (req, res) {
         let token = jwt.sign({id: user._id}, configJWT.secret, {expiresIn: configJWT.expires});
 
         //Se responde con el token
-        res.json({success: true, token: token});
+        res.json({success: true, message: 'Zona de admin con usuario verificado.!'});
     });
 });
 
